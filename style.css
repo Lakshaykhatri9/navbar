@@ -78,10 +78,7 @@ body {
     .menu li a {padding: 10px;}
     .open-menu , .close-menu {display: block;}
     #check:checked ~ .menu {right: 0;}
-    
-    .unordered-list{
-        border-right: 2px solid white;
-    }
+
 }
 
 
@@ -103,8 +100,5 @@ body {
     .menu li a {padding: 10px;}
     .open-menu , .close-menu {display: block;}
     #check:checked ~ .menu {right: 0;}
-    
-    .unordered-list{
-        border-right: 2px solid white;
-    }
+
 }
