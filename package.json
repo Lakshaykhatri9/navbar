@@ -1,0 +1,17 @@
+{
+  "name": "hamburger-menu-with-html-and-css",
+  "version": "1.0.0",
+  "description": "<a href=\"https://www.youtube.com/watch?v=QQlxvj_GKss&ab_channel=DeltatyCode\" target=\"_blank\"><img src=\"https://thumbs2.imgbox.com/48/d9/xWFGDxx2_t.png\" alt=\"image host\"/></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.45",
+    "tailwindcss": "^3.4.10"
+  }
+}
