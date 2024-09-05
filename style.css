@@ -67,7 +67,7 @@ details > summary{
 }
 
 
-@media(min-width: 100px){
+@media(min-width: 1400px){
     .menu {
         flex-direction: column;
         align-items: flex-start;
@@ -108,6 +108,12 @@ details > summary{
     #check:checked ~ .menu {right: 0;}
 }
 
+@media(max-width: 1400px){
+    *{
+        display: none;
+    }
+}
+
 .resi-hide{
     display: none;
     transition: 0.5s ease;
@@ -130,4 +136,6 @@ details > summary{
 
 .ongoing-del-hide{
     display: none;
+    transition: 0.5s ease;
 }
+
